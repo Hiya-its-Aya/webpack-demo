@@ -16,5 +16,14 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiya-its-Aya/webpack-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hiya-its-Aya/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/Hiya-its-Aya/webpack-demo#readme"
 }
